@@ -3,3 +3,15 @@
     height: 50px;
     
 }
+.parallax{
+    background-image: url("../img/banner.jpg");
+    min-height: 500px;
+    background-attachment:fixed ;
+    background-position: center ;
+    background-repeat: no-repeat ;
+    background-size: cover;
+
+}
+.top{
+    margin-top: 200px;
+}
