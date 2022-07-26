@@ -1,1 +1,2 @@
-portfolio
+@extends('layouts.master')
+@section('title','Portfolio')
